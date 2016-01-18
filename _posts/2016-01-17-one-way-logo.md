@@ -1,27 +1,26 @@
 ---
-description: ''
+inFeed: true
+hasPage: false
+inNav: false
 isBasedOnUrl: 'urn:uuid:28e52d53-ed51-46b2-af14-58c8947813b0'
+inLanguage: null
+starred: true
+keywords: []
+description: ''
+datePublished: '2016-01-18T02:43:30.992Z'
+dateModified: '2016-01-18T02:36:57.928Z'
 author: []
-datePublished: '2016-01-18T00:13:39.690Z'
+title: One Way Logo
+sourcePath: _posts/2016-01-17-one-way-logo.md
+published: true
+authors: []
 publisher:
   name: ''
   domain: ''
   url: null
   favicon: null
-title: One Way Logo
-dateModified: '2016-01-18T00:13:38.451Z'
-sourcePath: _posts/2016-01-17-one-way-logo.md
-published: true
-inFeed: true
-hasPage: false
-inNav: false
-inLanguage: null
-starred: true
-keywords: []
-authors: []
 _context: 'http://schema.org'
 _type: Article
 
 ---
-# One Way Logo
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8484c468-e467-4975-b10d-33a994814550.png)
+# ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0ea64a90-4bbd-4ce4-bbee-0e95f4faff07.jpg)
