@@ -1,12 +1,12 @@
 ---
 description: ''
 author: []
-datePublished: '2016-01-17T23:14:04.065Z'
+datePublished: '2016-01-18T00:04:34.790Z'
 publisher:
   domain: ''
   name: ''
 title: One Way Logo
-dateModified: '2016-01-17T23:13:41.125Z'
+dateModified: '2016-01-17T23:17:28.640Z'
 sourcePath: _posts/2016-01-17-one-way-logo.md
 published: true
 inFeed: true
@@ -18,3 +18,4 @@ _type: Article
 
 ---
 # One Way Logo
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8484c468-e467-4975-b10d-33a994814550.png)
