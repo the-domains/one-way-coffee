@@ -1,12 +1,12 @@
 ---
 description: ''
 author: []
-datePublished: '2016-01-18T00:04:34.790Z'
+datePublished: '2016-01-18T00:04:35.910Z'
 publisher:
   domain: ''
   name: ''
 title: One Way Logo
-dateModified: '2016-01-17T23:17:28.640Z'
+dateModified: '2016-01-18T00:04:34.790Z'
 sourcePath: _posts/2016-01-17-one-way-logo.md
 published: true
 inFeed: true
