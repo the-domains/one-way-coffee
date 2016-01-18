@@ -1,18 +1,24 @@
 ---
 description: ''
+isBasedOnUrl: 'urn:uuid:28e52d53-ed51-46b2-af14-58c8947813b0'
 author: []
-datePublished: '2016-01-18T00:04:35.910Z'
+datePublished: '2016-01-18T00:04:39.436Z'
 publisher:
-  domain: ''
   name: ''
+  domain: ''
+  url: null
+  favicon: null
 title: One Way Logo
-dateModified: '2016-01-18T00:04:34.790Z'
+dateModified: '2016-01-18T00:04:36.432Z'
 sourcePath: _posts/2016-01-17-one-way-logo.md
 published: true
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
-url: one-way-logo/index.html
+inLanguage: null
+starred: true
+keywords: []
+authors: []
 _context: 'http://schema.org'
 _type: Article
 
