@@ -2,14 +2,14 @@
 description: ''
 isBasedOnUrl: 'urn:uuid:28e52d53-ed51-46b2-af14-58c8947813b0'
 author: []
-datePublished: '2016-01-18T00:13:37.408Z'
+datePublished: '2016-01-18T00:13:38.451Z'
 publisher:
   name: ''
   domain: ''
   url: null
   favicon: null
 title: One Way Logo
-dateModified: '2016-01-18T00:13:20.583Z'
+dateModified: '2016-01-18T00:13:37.408Z'
 sourcePath: _posts/2016-01-17-one-way-logo.md
 published: true
 inFeed: true
