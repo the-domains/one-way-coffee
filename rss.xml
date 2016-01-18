@@ -4,7 +4,7 @@
         <description><![CDATA[PLUS ONE COFFEE CO]]></description>
         <link>https://thegrid.ai/one-way-coffee/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 02:51:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jan 2016 03:15:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/one-way-coffee/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[One Way Logo]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Mon, 18 Jan 2016 02:43:30 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[ROASTING]]></title>
+            <description><![CDATA[<article><h1>ROASTING</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c0a83a5b1db2a40abf2a5847ba54f8e97811202a.jpg"></article>]]></description>
+            <link>https://thegrid.ai/one-way-coffee/roasting/index.html</link>
+            <guid isPermaLink="false">f1b76b30-0334-42c8-b66c-9e8bcfefc316</guid>
+            <pubDate>Mon, 18 Jan 2016 03:14:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[ABOUT]]></title>
-            <description><![CDATA[<article><h1>ABOUT</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ffde1d982f9f432265a86365e51b3a6df757a470.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>ABOUT</h1><p>All of our roasting is done in our house on the kitchen stove.  We roast in very small batches, so that all of our product is as carefully crafted as possible. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d1356364949d4de71ad63f9b2493a08f167f0a1c.jpg"></article>]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/dd4d60a6-2ddd-4d63-b315-ef977a515996.png</link>
             <guid isPermaLink="false">2579f44f-b54e-422f-9f0a-4ccc98aa602a</guid>
             <pubDate>Mon, 18 Jan 2016 02:51:10 GMT</pubDate>
