@@ -1,14 +1,29 @@
+name: One Way Coffee
+favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.02688172
+title: PLUS ONE COFFEE CO
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.8438364
-  lightness: 0.1987822
-  brandStrength: 0.9121864
   brandColors:
     - '#E8E8E8'
     - '#919191'
     - '#656565'
     - '#000000'
     - '#E36E76'
+  brandStrength: 0.9121864
+  lightness: 0.1987822
+  saturation: 0.8438364
   rhythmicContrast: 0.5003123
-name: One Way Coffee
+purpose: []
