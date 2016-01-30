@@ -7,7 +7,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-30T21:19:46.500Z'
+datePublished: '2016-01-30T21:19:46.493Z'
 dateModified: '2016-01-30T21:17:11.660Z'
 author: []
 title: One Way Logo
